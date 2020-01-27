@@ -1,2 +1,6 @@
 
 *.opendb
+*.pdb
+*.ilk
+*.idb
+.vs/CPP-Sandbox/v16/.suo
