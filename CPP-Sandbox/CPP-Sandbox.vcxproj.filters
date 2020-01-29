@@ -21,5 +21,8 @@
     <ClCompile Include="Trik.cpp">
       <Filter>Source Files\Kattis</Filter>
     </ClCompile>
+    <ClCompile Include="AboveAverage.cpp">
+      <Filter>Source Files\Kattis</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

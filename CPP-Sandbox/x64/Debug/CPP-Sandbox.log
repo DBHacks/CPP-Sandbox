@@ -1,3 +1,2 @@
-﻿  Trik.cpp
-C:\Users\Danie\Documents\GitHub\CPP-Sandbox\CPP-Sandbox\Trik.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  CPP-Sandbox.vcxproj -> C:\Users\Danie\Documents\GitHub\CPP-Sandbox\x64\Debug\CPP-Sandbox.exe
+﻿Trik.obj : error LNK2005: main already defined in AboveAverage.obj
+C:\Users\Danie\Documents\GitHub\CPP-Sandbox\x64\Debug\CPP-Sandbox.exe : fatal error LNK1169: one or more multiply defined symbols found

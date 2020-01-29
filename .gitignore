@@ -9,3 +9,12 @@ x64/Debug/CPP-Sandbox.pdb
 .vs/CPP-Sandbox/v16/.suo
 *.db
 .vs/CPP-Sandbox/v16/.suo
+*.log
+*.db
+.vs/CPP-Sandbox/v16/.suo
+*.vcxproj
+*.filters
+*.user
+*.tlog
+*.idb
+*.pdb
